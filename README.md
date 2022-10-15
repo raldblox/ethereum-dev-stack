@@ -1,7 +1,7 @@
 # 🏗 Ethereum Dev Stack to build on Ethereum!
 
 
-🧪 Technicals
+### 🧪 Technicals
 - This repo is forked from the excellent [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth)
 - hardhat + waffle smart contract development.
 - ethers.js.
