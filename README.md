@@ -1,10 +1,14 @@
-# 🏗 Scaffold-ETH
+# 🏗 Ethereum Dev Stack to build on Ethereum!
 
-> everything you need to build on Ethereum! 🚀
 
-🧪 Quickly experiment with Solidity using a frontend that adapts to your smart contract:
-
-![image](https://user-images.githubusercontent.com/2653167/124158108-c14ca380-da56-11eb-967e-69cde37ca8eb.png)
+🧪 Technicals
+- This repo is forked from the excellent [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth)
+- hardhat + waffle smart contract development.
+- ethers.js.
+- Custom deploy function.
+- Uses modified ERC721.
+- Blocknative for monitoring transactions.
+- web3modal for connecting to wallets.
 
 
 # 🏄‍♂️ Quick Start
@@ -61,7 +65,6 @@ Documentation, tutorials, challenges, and many more resources, visit: [docs.scaf
 - [eth-components](https://github.com/scaffold-eth/eth-components)
 - [scaffold-eth-expo](https://github.com/scaffold-eth/scaffold-eth-expo)
 - [scaffold-eth-truffle](https://github.com/trufflesuite/scaffold-eth)
-
 
 
 # 🔭 Learning Solidity
