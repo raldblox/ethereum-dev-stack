@@ -15,16 +15,16 @@
 
 Prerequisites: [Node (v16 LTS)](https://nodejs.org/en/download/) plus [Yarn (v1.x)](https://classic.yarnpkg.com/en/docs/install/) and [Git](https://git-scm.com/downloads)
 
-> clone/fork 🏗 scaffold-eth:
+> clone/fork this repository:
 
 ```bash
-git clone https://github.com/scaffold-eth/scaffold-eth.git
+gh repo clone raldblox/ethereum-dev-stack
 ```
 
 > install and start your 👷‍ Hardhat chain:
 
 ```bash
-cd scaffold-eth
+cd ethereum-dev-stack
 yarn install
 yarn chain
 ```
@@ -32,14 +32,14 @@ yarn chain
 > in a second terminal window, start your 📱 frontend:
 
 ```bash
-cd scaffold-eth
+cd ethereum-dev-stack
 yarn start
 ```
 
 > in a third terminal window, 🛰 deploy your contract:
 
 ```bash
-cd scaffold-eth
+cd ethereum-dev-stack
 yarn deploy
 ```
 
